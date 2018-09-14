@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453762398 source:/home/alumno/Escritorio/Clase 7 Ker/Clase 7/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
