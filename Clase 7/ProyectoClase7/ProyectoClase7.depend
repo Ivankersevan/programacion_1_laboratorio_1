@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537405404 source:/home/alumno/Escritorio/Clase 7/ProyectoClase7/producto.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1537402676 source:/home/alumno/Escritorio/Clase 7/ProyectoClase7/main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+
+1537402676 /home/alumno/Escritorio/Clase 7/ProyectoClase7/producto.h
+
